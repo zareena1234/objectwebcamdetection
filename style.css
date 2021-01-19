@@ -1,0 +1,13 @@
+body{background-size:cover; background-position:center}
+.heading
+{box-shadow: 15px 15px 15px plum;
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+canvas{border:3px solid slateblue; box-shadow: 15px 15px 15px cyan; border-radius: 10px}
+
+#status
+{
+font-size: 18px;
+}
